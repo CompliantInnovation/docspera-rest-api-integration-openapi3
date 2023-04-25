@@ -11,7 +11,7 @@ info:
     backgroundColor: '#0096FA'
     href: https://docspera.com
 servers:
-  - url: https://int.velys.docvisor.dev/api/v1
+  - url: https://int.velys.docspera.dev/api/v1
     description: DEV
   - url: https://int.velys.docharp.com/api/v1
     description: SIT
